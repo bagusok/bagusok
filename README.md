@@ -1,5 +1,5 @@
-# Hi There
-<p>My name is Rizqi Bagus Andrean, I am someone who likes technology. I like to make tools that make it easier in everyday life.</p>
+# 👏 Hi There
+<p>My name is **Rizqi Bagus Andrean**, I am someone who likes technology. I like to make tools that make it easier in everyday life✌️</p>
 
 ```javascript
 const profiles = {
@@ -14,13 +14,14 @@ const profiles = {
     }
 }
 ```
-## :fire: Github Stats
+
+## 🔥 Github Stats
 <div style='display: flex; gap: 0.5rem;'>
 <img src="https://github-readme-stats.vercel.app/api?username=bagusok&theme=outrun&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
 </div>
 
-## Contribution
+## 🎉 Contribution
 <img src="https://github.com/bagusok/bagusok/blob/output/github-contribution-grid-snake.gif"/>
 
 
