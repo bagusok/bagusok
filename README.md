@@ -4,7 +4,7 @@
 ```javascript
 const profiles = {
     name: "Rizqi Bagus Andrean",
-    location: "East Java, Indonesia"
+    location: "East Java, Indonesia",
     languages: ["English", "Indonesian", "Javanese"],
     connect: {
         linkedin: "https://www.linkedin.com/in/rizqi-bagus-andrean",
