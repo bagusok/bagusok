@@ -20,6 +20,9 @@ const profiles = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
 </div>
 
+## Contribution
+<img src="https://github.com/bagusok/bagusok/blob/output/github-contribution-grid-snake.gif"/>
+
 
 
 
