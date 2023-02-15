@@ -9,7 +9,7 @@ const profiles = {
     connect: {
         linkedin: "https://www.linkedin.com/in/rizqi-bagus-andrean",
         facebook: "https://www.facebook.com/rizqibagus.andrean",
-        instagram: "https://www.instagram.com/rizqibagusandrean"
+        instagram: "https://www.instagram.com/rizqibagusandrean",
         email: "okebagus426@gmail.com"
     }
 }
