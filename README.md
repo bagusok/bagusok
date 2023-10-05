@@ -21,8 +21,6 @@ const profiles = {
 <img style="height: 150px; width: auto;" src="https://github-readme-stats-three-flame-74.vercel.app/api/top-langs/?username=bagusok&layout=compact&theme=tokyonight" />
 </div>
 
-## 🎉 Contribution
-<img style="max-height: 150px; width: auto;" src="https://github.com/bagusok/bagusok/blob/output/github-contribution-grid-snake.gif"/>
 
 
 
