@@ -1,5 +1,5 @@
 # 👏 Hi There
-<p>My name is <b>Rizqi Bagus Andrean</b>, I am someone who likes technology. I like to ...</p>
+<p>P.</p>
 
 ```javascript
 const profiles = {
