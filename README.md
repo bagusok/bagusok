@@ -1,5 +1,5 @@
 # 👏 Hi There
-<p>P.</p>
+<p>P. Info</p>
 
 ```javascript
 const profiles = {
@@ -17,8 +17,8 @@ const profiles = {
 
 ## 🔥 Github Stats
 <div style='display: flex; gap: 0.5rem;'>
-<img style="height: 150px; width: auto;" src="https://github-readme-stats-three-flame-74.vercel.app/api?username=bagusok&theme=outrun&show_icons=true" />
-<img style="height: 150px; width: auto;" src="https://github-readme-stats-three-flame-74.vercel.app/api/top-langs/?username=bagusok&layout=compact&theme=tokyonight" />
+<img style="height: 150px; width: auto;" src="https://github-readme-stats.vercel.app/api?username=bagusok&theme=outrun&show_icons=true" />
+<img style="height: 150px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusok&layout=compact&theme=tokyonight" />
 </div>
 
 
