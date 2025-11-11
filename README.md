@@ -10,7 +10,7 @@ const profiles = {
         linkedin: "https://www.linkedin.com/in/rizqi-bagus-andrean",
         facebook: "https://www.facebook.com/rizqibagus.andrean",
         instagram: "https://www.instagram.com/rizqibagusandrean",
-        email: "okebagus426@gmail.com"
+        email: "rizkibagusandrean@gmail.com"
     }
 }
 ```
